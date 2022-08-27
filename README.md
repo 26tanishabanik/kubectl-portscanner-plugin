@@ -10,8 +10,8 @@ This is a simple plugin written in Golang for checking if a port is open and lis
 
 ### Closed Port
 
-![alt text](https://github.com/26tanishabanik/kubectl-portscanner-plugin/blob/main/assets/kubectl-port-Closed.png?raw=true)
+![alt text](https://github.com/26tanishabanik/kubectl-portscanner-plugin/blob/main/assets/kubectl-port-Closed-cropped.png?raw=true)
 
 ### Open Port
 
-![alt text](https://github.com/26tanishabanik/kubectl-portscanner-plugin/blob/main/assets/kubectl-port-Open.png?raw=true)
+![alt text](https://github.com/26tanishabanik/kubectl-portscanner-plugin/blob/main/assets/kubectl-port-Open-cropped.png?raw=true)
