@@ -8,14 +8,13 @@ import (
 	corev1 "k8s.io/api/core/v1"
 	corev1client "k8s.io/client-go/kubernetes/typed/core/v1"
 	"k8s.io/client-go/tools/clientcmd"
-    "k8s.io/client-go/kubernetes/scheme"
-    "k8s.io/client-go/tools/remotecommand"
+        "k8s.io/client-go/kubernetes/scheme"
+        "k8s.io/client-go/tools/remotecommand"
 	"golang.org/x/crypto/ssh/terminal"
 	"strings"
 	"bytes"
 	"bufio"
 	"log"
-
 )
 
 func readLine(reader *bufio.Reader) (strLine string, err error) {
